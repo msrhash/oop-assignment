@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Sam
+  - Cat
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - PlayerSam
+  - PlayerCat
+  - Pushable
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG1
+    uniqueID: 4193437161
+    locked: 0
+  - name: BG2
+    uniqueID: 2764246937
+    locked: 0
+  - name: BG3
+    uniqueID: 1236805473
+    locked: 0
+  - name: BG4
+    uniqueID: 346928427
+    locked: 0
+  - name: BG5
+    uniqueID: 1637380321
+    locked: 0
+  - name: BG6
+    uniqueID: 4163305295
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default
